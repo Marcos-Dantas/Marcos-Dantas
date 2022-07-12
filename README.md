@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/Marcos-Dantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmesquita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonmesquita&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Dantas&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 ##
@@ -28,7 +28,7 @@
   
   <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leonmesquita&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marcos-Dantas&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
